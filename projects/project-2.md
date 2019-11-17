@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/asteroid.png
 title: Asteroid Regression
-permalink: projects/micromouse.jpg
+permalink: projects/asteroidRegression
 # All dates must be YYYY-MM-DD format!
 date: 2019
 labels:
