@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/asteroid.png
 title: Asteroid Regression
-permalink: projects/asteroidRegression
+permalink: https://www.kaggle.com/liamkesatoran/bubble-map-using-plotly-express
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-01
 labels:
