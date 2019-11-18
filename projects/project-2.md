@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/asteroid.png
+image: images/plotly.png
 title: Bubble map using plotly
 projecturl: "https://www.kaggle.com/liamkesatoran/bubble-map-using-plotly-express"
 # All dates must be YYYY-MM-DD format!
