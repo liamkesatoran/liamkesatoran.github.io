@@ -7,10 +7,12 @@ projecturl: "https://www.kaggle.com/liamkesatoran/asteroid-diameter-estimators-w
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-01
 labels:
+  - Python
   - Supervised Learning
   - Regression
-  - Python
   - Sklearn
+  - Keras
+  - XGBoost
 summary: Kaggle kernel showcasing different ways to do regression on a NASA dataset about asteroids.
 ---
 
