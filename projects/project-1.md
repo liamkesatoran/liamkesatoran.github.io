@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/asteroid.png
 title: Asteroid Regression
-permalink: projects/asteroidRegression
+projecturl: "https://www.kaggle.com/liamkesatoran/bubble-map-using-plotly-express"
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-01
 labels:
@@ -11,7 +11,7 @@ labels:
   - Regression
   - Python
   - Sklearn
-summary: Kaggle kernel showcasing different ways to do regression on a NASA's dataset about asteroids.
+summary: Kaggle kernel showcasing different ways to do regression on a NASA dataset about asteroids.
 ---
 
 
