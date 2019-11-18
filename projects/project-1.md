@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/asteroid.png
-title: Asteroid & regressions
+title: Asteroids & regressions
 projecturl: "https://www.kaggle.com/liamkesatoran/asteroid-diameter-estimators-with-added-difficulty"
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-01
@@ -10,10 +10,10 @@ labels:
   - Python
   - Supervised Learning
   - Regression
-  - Sklearn
+  - sklearn
   - Keras
   - XGBoost
-summary: Kaggle kernel showcasing different ways to do regression on a NASA dataset about asteroids.
+summary: Kaggle kernel showcasing different ways to do regression on a JPL dataset about asteroids.
 ---
 
 
