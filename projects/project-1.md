@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/asteroid.png
-title: Asteroid Regression
+title: Asteroid & regressions
 projecturl: "https://www.kaggle.com/liamkesatoran/asteroid-diameter-estimators-with-added-difficulty"
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-01

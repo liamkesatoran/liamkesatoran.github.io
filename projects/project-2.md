@@ -12,5 +12,5 @@ labels:
   - Python
   - Seaborn
   - Plotly
-summary: Kaggle kernel showcasing how to make a bubble map using plotly.
+summary: Short Kaggle kernel operating on a Glassdoor dataset showcasing how to make a bubble map using plotly.
 ---
