@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.17)  2 DEC 2019 00:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.17)  2 DEC 2019 10:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -775,11 +775,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23627 strings out of 492167
- 397008 string characters out of 6131557
+ 23625 strings out of 492167
+ 396988 string characters out of 6131557
  488971 words of memory out of 5000000
  27765 multiletter control sequences out of 15000+600000
- 592759 words of font info for 74 fonts, out of 8000000 for 9000
+ 592619 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,11n,71p,804b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fo
@@ -790,7 +790,7 @@ ntAwesome.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf-dist/fonts/type1/public/
 tex-gyre/qplbi.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb>
 </usr/share/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on liamToranResume.pdf (1 page, 275077 bytes).
+Output written on liamToranResume.pdf (1 page, 275172 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
