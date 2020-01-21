@@ -7,9 +7,9 @@ projecturl: "https://github.com/liamkesatoran/feature-selection-lending-club/blo
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-19
 labels:
-  - Data Exploration
-  - Supervised Learning
+  - Finance
+  - Feature encoding
   - Classification
   - Feature selection
-summary: Jupyter notebook showing how to select relevent feature to make classification. Operating on a banking loan dataset.
+summary: Jupyter notebook showing how to select a few relevent features from a high dimensional dataset in order to do classification and analysis. Operating on a banking loan dataset.
 ---
